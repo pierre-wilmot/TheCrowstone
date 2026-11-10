@@ -7,5 +7,846 @@
   "name": "The Crow Stone (London Boundary Stone)",
   "lat": 51.5359,
   "lon": 0.6775,
-  "photos": []
+  "photos": [
+    {
+      "cid": "bafybeigozjnmsdszqqxldzhgea3fxcbigrzqrzqvmmtwxkgsodbqzzdhya",
+      "meta": {
+        "name": "IMG_8912.JPG",
+        "bytes": 4328580,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAk6ykVdMLDbTKx4seuG3dxJGUDxSAxh9DU76DV9rJ6ttFZLIhAgm8XwVowmshoAwJjfgnAHbtR0Ph7/ueTvxuBQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeigxha6ldlcb5rsgtxcg2tfiibfveb5733rid3akwtjb3czjqbdejq",
+      "meta": {
+        "name": "IMG_8913.JPG",
+        "bytes": 5569079,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA2RYKk+y3XxKRXA2JCzf2YGKfApL7y3L25lPXD7G29BmsYvKoKXTD9uBgNU691tWP74Liq8j/ZSackP7jToHlDg=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeifnd23ukmm2usznrtluuqr42kllyq3lnouqe3qtqqn3wf4rh4sxoe",
+      "meta": {
+        "name": "IMG_8914.JPG",
+        "bytes": 5307332,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA8UQXizif3/WSOCMxBdI/yCMXxaY2J1YiBFTFGQbkaawVYuKTTe85Ry2QsjZKFY9xYqBofw2chj/Hyvrb3xKkBw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiccbkyfqma6phqnizhnvgmmxma4ntbuskvkwbrc2puhyxwzkmis24",
+      "meta": {
+        "name": "IMG_8915.JPG",
+        "bytes": 5380335,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAyfIfbjmoxzuC/eIss1y2P2lE99RnjyOs7rDvqCZ/d0Qbyu8L1+Ux9uWXD6XWK3R3Li0pqjv6j7QDoVdiOFsIBA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeib4wnzq7vqaa4vc5hukwyvuehu62il5ho27ikvokrdb2afxfqzutm",
+      "meta": {
+        "name": "IMG_8916.JPG",
+        "bytes": 5510744,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAPOOO1EtPx/PfnNPF2y6ywjvGrghNRre+e732fP0CjW5Aw+1GoAvES3zmQrTEW4EsUhuHNnTuXMoyXjctQMjdDw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeif4resina5z45j34eyadw4x2sbe44meuwiyu2qbmn7fbigfwf3tk4",
+      "meta": {
+        "name": "IMG_8917.JPG",
+        "bytes": 5115344,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA7OFuRAQv1cKcpKNX9IBCncXoq0cP4lbUyPGxocyuz3lC5aniIq857lrgTEQ2pZiMJwK6XZEgoCa268wvAb0tCQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeic3nr4hva64i57rwlwrh7uukdh5ubsmebvkaxr2x4droeegog3xyu",
+      "meta": {
+        "name": "IMG_8918.JPG",
+        "bytes": 4969746,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABApViJEB9kim1I1m8L5e0fDHDDZFnr1/RXhCu4R4DaCak4c4ca0Myxx+qMkbBzmfFQow9upKiDUqbnbk2x27NJDA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeihfen3rbspo3nc5lbtzhpegw6oh4tytfrl5pe47q46mh244j52irq",
+      "meta": {
+        "name": "IMG_8919.JPG",
+        "bytes": 4864137,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAzDbSyMHptch/7LYIQCGhbaE+O73Sd6b3+7woIQAIj67K412LJEQDDfm/oIes/wSBp/7RTHWn2x+bUmlo8e97DA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibfenocvgq6ikoyad2okeczlnholgddvvakysdi76wp7vrczejbri",
+      "meta": {
+        "name": "IMG_8920.JPG",
+        "bytes": 5014910,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAXqkhkRsv82fICBgLsSeFJzuVFjKe68lZ+V8D5bvZ4zSwGCjbv7w9POBekQCDMsncDMIllH0+X9L0zpOn7Mn3Cw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeib5trmcv2z36ei76u4lak2b255vo7halnr5d7p3sbpttsdrvummka",
+      "meta": {
+        "name": "IMG_8921.JPG",
+        "bytes": 5071391,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAcNQ3ZTIRGdNU6RJyH3QWFDnalKTMNEPW3byN89AVL3taQVRtI9kOFBa2kOX9i1pWPywFteb5cL0rXD08B3NABQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibsdbrqpsp5m6p2ikbya4e7zj2qoyrx67djsytzhslnoxhwp7qfy4",
+      "meta": {
+        "name": "IMG_8922.JPG",
+        "bytes": 6057991,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABABRH5OP+YeBtlzwAb+crndYMXvXlMHApNlKeZtf/45vE1YCEbzRAJZWNZvH1aNJ7WJGEfTHULrRbc0qGMK7YzAA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeic7emfhxs6ergh2fcgl4dpwutjk3ptk4u4i6r7op6mqj6rhutbiuu",
+      "meta": {
+        "name": "IMG_8923.JPG",
+        "bytes": 5631976,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA6u5EPicSfJRG8bt5+C+xbfpzTpD98qHWmSXy6lBb1IG0gYoha9Wle2qmh1uAyPVi8yioM0l3nQyxKznJW46HCg=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibk5ocjljhheqbfvxzgdpqxyp442j6fdlv764ieepsum67zbfnl5u",
+      "meta": {
+        "name": "IMG_8924.JPG",
+        "bytes": 4636985,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABARbboDM+jBp/eyk01EpnGsCqOQSrXOaiCMuaJxELtXqLRBmQeLxX2pczW07ZCRzAf+WYUGm2Wa/GTbCJcAlyHDg=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeifkr7uiahqp2n7yttmmvaribosyqdsu4k7brw2oma736f3f575vka",
+      "meta": {
+        "name": "IMG_8925.JPG",
+        "bytes": 4728243,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAsLtdrHj38xVoTYZZI7zJgG5BVLztzw/tdLTGC6kw6+JFE1mPXACio9/a6W+IpNjUwK3HIuzfnHfnzBBaP2RzCQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiagrtll7dqeorrq54vdgnkvkwjq2c6dhs3q5gh6qo5hknakexxrwu",
+      "meta": {
+        "name": "IMG_8926.JPG",
+        "bytes": 5541964,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAJ5KZkBNKJkxkwZ7KM5fhpnW+i1jMU52r+GD/mZpIVlZZO7OtKxuSZfy2C+XoLVWHCIFeVJ2xwBpFfMS3Nvr6Dw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeifycovjkik35v6e7umwt35p6a4znpke6gimx643cfpknfjyy6dfke",
+      "meta": {
+        "name": "IMG_8927.JPG",
+        "bytes": 6091362,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAK4KH3kO/HMoN3/5UaWYl+wQLyWJAjHNW9iVLZKmBRQXXIYM73d+fsMHkkMg/xN+xq1J4tHZe1rmhHZfsOnFBAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeifl55gu3aebautxgsptlf5emezyrafg4u7vk3ilxvjq2o2iqdwvpy",
+      "meta": {
+        "name": "IMG_8928.JPG",
+        "bytes": 5876244,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAzqbaFQgmFBwaObQj00LbpOfKp6gRGJQIldxd7KkLgrpm8zLhFfZJVuvDe5EA3cXhBVRtTISIvGCH9Zf3SPy3Ag=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiejp6gllpm3wrphq2cmvadau7epdkqixsjlrljydjj3byduscxpia",
+      "meta": {
+        "name": "IMG_8929.JPG",
+        "bytes": 5552286,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAmvWmrhZWbFOqsRjAHhfw9jac4MohugwM7/r7gTz/q892sXJEPXolbfcvG2JUf1pwb+4UVMxyozzAq0k4WBMdAg=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeidchlcotiqvt4364kob4ll36xuwr7culbrrk6kvz36dyze5fhedhu",
+      "meta": {
+        "name": "IMG_8930.JPG",
+        "bytes": 4883275,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA1tRRMQ3qvf+P0ptGsyCpFxU0pCMoHI1t9m1brB+D9HZ+AYVRoCsU8Ggnnz5BBHSeNtu4gw3maz6wGppmh6kTCw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiexauj3foi7xsoiuflp6htaxh2dqgp74omgkt6y3zseu5vlcenagi",
+      "meta": {
+        "name": "IMG_8931.JPG",
+        "bytes": 4829918,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAW7N8I2UQX6XYw4rdoQolC7n7cQjCfvlL/nDaeRDKk8BoRDRm+TCs9eUxK4LZdPXtxiaZ4e3XsnQjrEBoTFy2BQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeicvhhurcfluffu5g56wlpxi26mkbovvkli4mkdgjmeyj6ewejfmrm",
+      "meta": {
+        "name": "IMG_8932.JPG",
+        "bytes": 4988266,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA37U7ZUGHakDTx5Ng87OCD9q0RbrMuxqbM5COsJpFGwaO7FSH+QNPWLQK5vTWdypDUpimAjCj5JxuYvXHHkPSAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiax6q2yc3yri6wrbro42mkgx2jthvjfwfbp6a7ecuhf2lbxg2zfzy",
+      "meta": {
+        "name": "IMG_8933.JPG",
+        "bytes": 4992217,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABArtwVqaLisGdZPNwd4OZW5tSss+R7i+8i+kc69cpi5Dh7o6s1p19RNzIuVLhx6Tj4CRfzqHkq+THt46d6xXc+BQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibneypbnqexlcrchp7ozssrtgneiaawoz2dpdgwwbzlb7qbza6gcm",
+      "meta": {
+        "name": "IMG_8934.JPG",
+        "bytes": 4852818,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA4h39NFHztEAHSfqcOUFdhmacowVTjxPdScj7KuYJ1Gx2KmTZGsS3NWqekONOlTuEOg3CzPS5y335281nYYyZCw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibvg5wdrrqfdkazqbmfvutspcmgn7irkyscryxsc75zx4nu4ksr4y",
+      "meta": {
+        "name": "IMG_8935.JPG",
+        "bytes": 4951594,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAYldcQoSzwcopVDVu0JfOaNB2n9lUY0o9nhoCbWBwA0nWnyjQu+GdwgaLf4i9A5XSZUxUQBiBBYsCSsfrxPc9CQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiacybjuo7t7x76nlu3isazsrscgq4h5s3no463rt5lpshgqwhgzcy",
+      "meta": {
+        "name": "IMG_8936.JPG",
+        "bytes": 4487057,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAQBdl2O+ceU6SW2K8Y0mbDsm6zKSwxXMbGYK5NfSxa74v8aZf0IYgEs0/xI/+AZwuwMWaiEKblgN0VsVeG7KCDw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibevqhftozofr4swzfdddyr5jffotl7fmnue6bjhmkltyj55m6esy",
+      "meta": {
+        "name": "IMG_8937.JPG",
+        "bytes": 4672200,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAE+1VvANeUURly+ZvIw2wrnYRUS8wh0m1+T/fSS31UfNaOQEyTtPJyFEjJwcKoeP1NjDyEHZPTvV8FccmbkQuDQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiggpxa2h4zeujheixbusu7xj7ca4w7vqtc5vgwbbuhvt5gfrs2jde",
+      "meta": {
+        "name": "IMG_8938.JPG",
+        "bytes": 4596605,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA/JnL8VRxFtJvLjmVVXXAL7QnhL8kkTs6g4xVkaFgYmBu814KP6V0EzXlAW34/9PDUFn16TyvP1dxTpB7xgqgAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeih4zrfwgjlvpwijtgtjgwle3j67eknptwwko3fn6risevpnzt63ye",
+      "meta": {
+        "name": "IMG_8939.JPG",
+        "bytes": 4358192,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAxhTwen8l+MfPkDngWg+yg5juyJAmiVvzrrh4iHLcQwOH/2SQ3PJnaSWEgIlXFt8CFAfteMRtzU5OKsy3tUKzDw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeigpi2q5r574be6ut6ru342ffkuemxo6kje2xmdyltdgcfcufv6e3y",
+      "meta": {
+        "name": "IMG_8940.JPG",
+        "bytes": 4696471,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA81T6abk32+lKeZBS/ZvOWlkfzsU0SG9nB0rBkHsx2j6fE04TDDKFVIW/O0QKBDx6yToZIUIMkeSxe9lLzK7iBQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeicyizniexgmjc4lpirl3yhkchhqib6kar7ugjjhp3f2tw5fi4ayfe",
+      "meta": {
+        "name": "IMG_8941.JPG",
+        "bytes": 4587351,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAuX8+D3NdQEPlrUUun4nkU6RKVbX2Bz83KzoUFRbAOkq3Ik3yQO69kCBVGt9zuIDVu/wDF9xjzofYQn9KGnZUAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeibzubrbicmgvksm7z2undqbapldyjetpdvljc7g4khjerqededwxa",
+      "meta": {
+        "name": "IMG_8942.JPG",
+        "bytes": 5176360,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAcdopVVzok7ntER8nDLccMlKsToHQIvnbvblvytKLPfgJvmeLoHsX+TyjUTzuyXelo75vc8lCrWMQvVq186cHBA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeidauqu5aa74k5pfbchz5vubyfivoghuqtcsk37ebccantona5osym",
+      "meta": {
+        "name": "IMG_8943.JPG",
+        "bytes": 4398747,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          5184,
+          3456
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAfT8TDyI42PlIqtefVTBokxKIAKjuLNeS1zWEdA5cVaDmcvYpftGmVLrs4tGXx809WkiaIL8JMSEGRB/8XO+IBQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeif7zwgujt7za24hk3ymxugbw36dkrydfvwt2afhyesawcvubyq6ky",
+      "meta": {
+        "name": "IMG_8944.JPG",
+        "bytes": 6622794,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          5184,
+          3456
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAigisf4EAWDGdfFmkwqwBqFEuqkLChWuW25dvqVuhBWchaOuZ1QbxfpisqzIPCETBn3iMLYpFE/zFMe+7Po9dAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiaecnsim42xwle3dep7ck4auhf7qbqjrzb6eseifvrrrmkpqlrmjm",
+      "meta": {
+        "name": "IMG_8945.JPG",
+        "bytes": 6832896,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          5184,
+          3456
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAUmpkHnADJSw4MKQY3dSbiJhdbMKYRh/tKAyR/Z6MblH+QPUpajehcR57rZnmUYDoaSDlPLcnsGIzGOPs2CICCg=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeie4yhyhri7qo2sydyaffg7gj6kun5urqjjgrgsbwghstwk3r6zzv4",
+      "meta": {
+        "name": "IMG_8946.JPG",
+        "bytes": 7649328,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAgB9+WltiFKNHWrBdZgfSPQagvhw2+3g4XDbemMqKCiaCrm7LmHwQ9cdv6hBtQKLbDHzxBZsBqyXO0RS9pRwMCw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeihch6vccys7o53pzx4mn56v7qpd34inhsxwlsjvfa5qhjoy3rra24",
+      "meta": {
+        "name": "IMG_8947.JPG",
+        "bytes": 8004436,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAuys9r0ioUi4ninCxEee971BbEDz8nvgajHG3bib1hWETXLV5FUrnDpgmHH0OB32XcWk2YK/lBbnYsp0gzDC4Dw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeido6o4ljhqzq4ohbmiuza64zahq62xr3b5lljohuuv4v4h2hdsqna",
+      "meta": {
+        "name": "IMG_8948.JPG",
+        "bytes": 5370259,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA5122DC1x9YlymEJJXf+0xKbu7v6Sg2+Ot3Uff/83rwRTnW/q7E+Yxcz9ntmWARCef54AWoJatSPn3Xk/dYlZAw=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiaj3kzwdhbp7vowe53wyorhd2ljg5prqdezeb27pamziiwvvxeb3q",
+      "meta": {
+        "name": "IMG_8949.JPG",
+        "bytes": 10715420,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAgQy2SxOxWVNvV7ggnMK4KczGtcatVWoajyvwglk/MMSEqlgjwZ7qLTlwcq2Lp/MnfNui2u3X6dqEHtF0Lz9iAA=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeiby52zneuwak6qe2q6fm4icp4k2cadjzlae7gvrmsfcjhme7qlyfu",
+      "meta": {
+        "name": "IMG_8950.JPG",
+        "bytes": 10760623,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAeEv2BlAdDZBzbHT7rfNtvH8CEebAg9I8j0X1djVO/0sMIcgXPtaT4NeGK9+l8Rk6Q7XOBYxlOAZCbRZV+yvpAQ=="
+        }
+      ]
+    },
+    {
+      "cid": "bafybeicbqsv6ce3kkwz23rbcneqkue3nqcdvohhumj6kkvimcka4kowd7a",
+      "meta": {
+        "name": "IMG_8951.JPG",
+        "bytes": 7211741,
+        "camera": "Canon EOS 60D",
+        "pixels": [
+          3456,
+          5184
+        ],
+        "license": "CC-BY-SA-4.0",
+        "author": "Pierre Wilmot"
+      },
+      "signatures": [
+        {
+          "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKsnOVEStJAXRdGzvjgFww34cgF8x58xwF5qTfJeaGiM",
+          "role": "contributor",
+          "sig": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgqyc5URK0kBdF0bO+OAXDDfhyAXzHnzHAXmpN8l5oaIwAAAAOaGVyaXRhZ2UtcGhvdG8AAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAV6vRL+LCXnMDV6MzdpcK3L4A8lAZQiA86djyGsOkJShvXCdr15Pm4qD0l33rEPOSd2Cs9506dTMEoZOpivWcBQ=="
+        }
+      ]
+    }
+  ]
 }
